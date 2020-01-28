@@ -7,6 +7,7 @@ public class Test2 {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hi Sai!! This is Test2 class and I am a developer");
+		System.out.println("second print stmt");
 	}
 
 }
